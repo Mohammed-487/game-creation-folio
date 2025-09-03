@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="E+3N-YF~X6jJEqk*ou#_">Player</variable><variable type="KIND_SpriteKind" id="{`.3mjx[E|8E8EkswYQ;">Projectile</variable><variable type="KIND_SpriteKind" id="OXcJJIb)8xw%{XJ.#k37">Food</variable><variable type="KIND_SpriteKind" id="pvfD7at}[-i2k,mwTC|9">Enemy</variable><variable id="TWQ=.3EG.Q+~vxIh!O%)">mySprite</variable><variable id="{nxR8]D:3dc;b7?`Fn7,">TOM</variable></variables><block type="pxt-on-start" id="JKHqFQ%twD=U4Y:a0}VV" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="+]z6+WLl4J+DY*S0+V+^"><field name="VAR" id="TWQ=.3EG.Q+~vxIh!O%)">mySprite</field><value name="VALUE"><shadow type="math_number" id="Za7j+Dvb/l``PCGCp^O#"><field name="NUM">0</field></shadow><block type="spritescreate" id="]nO1Z$0B04~{|wLVVvr|"><value name="img"><shadow type="screen_image_picker" id="sHOG[ea!xF1h@p8cVQFK"><field name="img">img`
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="5w^d2,p$zza2U.Wv*lLE"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="spritescreatenoset" id="#@GwtC!m!+b|L1{guLzU" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="151" y="226"><value name="img"><shadow type="screen_image_picker" id="K|k{95N09H48D[Bb^jN6" disabled-reasons="MANUALLY_DISABLED"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="g8WaK)c2!njtjA5.xJc-" disabled-reasons="MANUALLY_DISABLED"><field name="MEMBER">Player</field></shadow></value></block></xml>
